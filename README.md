@@ -1,17 +1,19 @@
 # blog-python
 Built a blog application to learn more on Python / Django
+
 In the process of building this application I learned how to:
-*Install necessary packages for Django</li> 
-*Creating URL patterns that handles the application views</li>
-*How to use templates to return more complex HTML to the browser</li> 
-*Passing variables to our templates as context</li> 
-*Getting a get understanding on using the admin page</li> 
-*Creating database tables using Django</li> 
-*Learning how to use forms and validate user input by creating a user registration page</li> 
-*Creating an authentication system for users to login and logout</li>
-*Built a page for users to update their information and add profile picture</li>
-*Class based views in order to create, update and delete posts</li>
-*Finally pagination, so there aren't too many posts at once per page.</li>
+
+* Install necessary packages for Django</li> 
+* Creating URL patterns that handles the application views</li>
+* How to use templates to return more complex HTML to the browser</li> 
+* Passing variables to our templates as context</li> 
+* Getting a get understanding on using the admin page</li> 
+* Creating database tables using Django</li> 
+* Learning how to use forms and validate user input by creating a user registration page</li> 
+* Creating an authentication system for users to login and logout</li>
+* Built a page for users to update their information and add profile picture</li>
+* Class based views in order to create, update and delete posts</li>
+* Finally pagination, so there aren't too many posts at once per page.</li>
 
 <img width="1163" alt="home" src="https://user-images.githubusercontent.com/43705850/70928153-47c0a200-1fe5-11ea-89bf-2f15582b2be5.png">
 
